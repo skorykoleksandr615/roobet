@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://roobet.space/sitemap.xml
+Sitemap: https://roobet.space/sitemap_index.xml
